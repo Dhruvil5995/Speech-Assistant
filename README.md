@@ -5,7 +5,7 @@ The Python Speech Assistant is an open-source project that provides a simple way
 
 ## Features
 #### Speech recognition: 
-The program uses the Google Speech Recognition API to convert speech to text, allowing users to interact with the program through voice commands.
+##### The program uses the Google Speech Recognition API to convert speech to text, allowing users to interact with the program through voice commands.
 
 #### Natural language processing: 
 The program uses the Natural Language Toolkit (NLTK) to analyze the user's commands and understand their intent.
